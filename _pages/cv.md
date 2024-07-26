@@ -9,38 +9,73 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+- **Doctoral student in Sociology**  
+  2023 - present  
+  Pontifical Catholic University of Chile
+
+- **Master’s Degree in Sociology**  
+  2017 - 2019  
+  Pontifical Catholic University of Chile
+
+- **Bachelor’s Degree in Sociology**  
+  2007 – 2013  
+  University of Concepción, Chile
+
+Research Interest
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Social networks, social inequality, education, quantitative methods
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Professional Experience
+======
+
+- **Researcher and Data Analyst**  
+  2019 - present  
+  Education Quality Agency
+
+- **Data Analyst**  
+  2014 - 2019  
+  Measurement Center, Mide UC, Chile
+
+Publications
+======
+
+* Plaza, A., Cantillan, R., Beck, G., & Espinoza, V. (2022). “Together, but not mixed: homophily in Mapuche and non-Mapuche intergroup relations” *Revista De Sociología, 37(1)*. [https://doi.org/10.5354/0719-529X.2022.68147](https://doi.org/10.5354/0719-529X.2022.68147)
+* Beck G., Plaza A., & Cantillan R. (working paper). “The importance of diversity and density in the perception of social justice. A cross-country analysis using ISSP 2017”.
+* Beck G., Otero G., Miranda D., (working paper). “Social circles and their determinants in Chile”.
+* Beck G. “Exploring the association between occupational contact networks and the justification of social inequality in Chile” [10.13140/RG.2.2.28827.18721](https://doi.org/10.13140/RG.2.2.28827.18721).
+
+Presentations
+======
+
+- Presentations at 8 international conferences, including Sunbelt (2013, 2022, 2019), International Network of Analytical Sociologists INAS (2023) and Congreso Latinoamericano de Opinión Pública WAPOR (2020).
+
+Awards and Fellowships
+======
+
+* **Student Travel Award**, 43º Sunbelt Conference (2023), International Network for Social Network Analysis
+* **National PhD Scholarship** (2023), National Research and Development Agency, Chile
+* **Social Inequality Summer Course Scholarship** (2021), Universität Würzburg, Germany
+* **Best Poster Award**, 5° COES Conference (2018), Center for Conflict and Social Cohesion Studies, Chile
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+* Quantitative data analysis software: R (advanced), SAS (advanced), Mplus (intermediate), Stata (basic)
+
+Languages
+======
+
+* Spanish (native), English (fluent)
+
+
+
+
+<!---
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +97,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
