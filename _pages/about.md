@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Guillermo Beck Villaroel, and I am currently a PhD candidate at Pontificia Universidad Católica de Chile. I hold a Master's Degree in Sociology from the same university and work as a researcher at the Agencia de Calidad de la Educación. My research interests focus on studying attitudes toward social inequality and education, with a particular emphasis on quantitative methods.
+Hello! My name is Guillermo Beck Villarroel, and I am currently a PhD candidate at Pontificia Universidad Católica de Chile. I hold a Master's Degree in Sociology from the same university and work as a researcher at the Agencia de Calidad de la Educación. My research interests focus on studying attitudes toward social inequality and education, with a particular emphasis on quantitative methods.
 
 Outside of my professional life, I enjoy playing bass, riding my bike, playing football, and spending time with my family. You can find my work and detailed research projects on this site. Thank you for visiting!
 
