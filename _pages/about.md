@@ -7,27 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-Here goes a description about me
+Hello! My name is Guillermo Beck Villaroel, and I am currently a PhD(c) at Pontificia Universidad Católica de Chile. I hold a Master Degree in Sociology from the same university. Also, I work as researcher at the Agencia de Calidad de la Educación. Currently, my interest focuses on studying attitudes toward social inequality and education, with a particular interest in quantitative methods.
 
-My research interest
-======
-Social inequality , social network analysis , education , social patterns, influence
+Outside of my professional life, I enjoy playing bass, ride my bike, play football, and spent time with my family. You can find work and detailed research projects on this site. Thank you for visiting!
 
 PhD Proposal
 ------
-Here goes my PhD proposal
+My research focuses on understanding redistributive preferences in Chile. The proposal aims to explore how various factors, such as social identity, perceived inequality, and fairness, shape these preferences. The study includes three main components: analyzing changes in redistributive preferences over time in Chile, examining the role of social structures (e.g., homophily and consolidation), and investigating the impact of relative deprivation and fairness perceptions on attitudes towards redistribution. This research seeks to provide a nuanced understanding of the determinants of redistributive preferences in a highly unequal society.
+
 
 At my job
 ------
-Here goes what I do in my job
+In my work, I focus on studying how various factors influence school and student outcomes. Currently, I am researching the impact of school composition in terms of socioeconomic status (SES), maternal education, gender, and race on academic achievement and coexistence in Chilean schools. The primary goal of this study is to understand how structural patterns within schools are associated with these outcomes.
 
 
 Methods
 ======
-SNA, quantitative methods, etc. 
+Social Network Analysis, Structural Equation Modeling, Causal Inference. 
 
 News
 ======
-- news1
-- news2
-- news3
+- I presented the work in progress of project “Social Structure and Inequality in Chile: An Analysis of Homophily and Preferences for Redistribution.” at the 44th Sunbelt in Edinburgh, Scotland. 
