@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+ [Download File in Spanish Here] (https://gmobeck.github.io/files/cv_es.pdf)
 
 Education
 ======
